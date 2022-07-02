@@ -10,6 +10,14 @@ It is possible to acess prediction from a Lineal Regression and a XGBoost models
 
 ## Requirements:
 
+Clone the repository:
+
+```bash
+git clone https://github.com/jcorreia11/streamlit-solubility.git
+```
+
+Install the requirements:
+
 ```text
 pandas~=1.4.2
 streamlit~=1.10.0
@@ -33,4 +41,4 @@ Run the following command in your terminal in the [solubility_app.py](solubility
 streamlit run solubility_app.py 
 ```
 
-Paste your SMILES strings in the SMILES imput box and explore!
+Paste your SMILES strings in the SMILES input box and explore!
