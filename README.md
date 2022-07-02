@@ -42,3 +42,9 @@ streamlit run solubility_app.py
 ```
 
 Paste your SMILES strings in the SMILES input box and explore!
+
+
+# Deploy (TODO)
+
+1. Heroku
+2. Streamlit Sharing
