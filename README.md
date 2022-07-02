@@ -23,7 +23,7 @@ pandas~=1.4.2
 streamlit~=1.10.0
 shap~=0.41.0
 xgboost~=1.6.1
-rdkit-pypi~=2022.03.3
+rdkit-pypi~=2022.3.3
 streamlit_shap~=1.0.2
 ```
 
